@@ -1,0 +1,24 @@
+{
+  "name": "stu-nodejs",
+  "version": "1.0.0",
+  "description": "> ### 研究学习node.js,主要是express框架和mongodb数据库，后台开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdleyTales/stu-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdleyTales/stu-nodejs/issues"
+  },
+  "homepage": "https://github.com/AdleyTales/stu-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
